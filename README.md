@@ -1,4 +1,4 @@
-# MovieTray
+# MovieDemo
 
 An application built to play around JetPack components. 
 
@@ -10,7 +10,6 @@ Here is a glimpse of sample application:
 
 <div>
 <img width="200" height="300" src="/art/screenshot_splash.png">
-<img width="200" height="300" src="/art/screenshot_nav.png">
 <img width="200" height="300" src="/art/screenshot_home.png">
 <img width="200" height="300" src="/art/screenshot_detail.png">
 <img width="200" height="300" src="/art/screenshot_about.png">
@@ -30,9 +29,6 @@ This app is currently built using,
 * [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
 * [Retrofit](https://square.github.io/retrofit/) for networking
 * Android DataBinding & ViewBinding
-* CI configured using [Github actions](https://docs.github.com/en/free-pro-team@latest/actions/quickstart)
-
->Note* : App is still under development. Will keep adding and exploring more components. Till then, Keep Learning!!
 
 
 
